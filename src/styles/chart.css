@@ -1,0 +1,14 @@
+/* chart.css */
+
+.chart-div {
+   
+    margin: 5%; /* Add a margin of 10% */
+    padding: 20px; /* Add some padding to make the chart more visible */
+    border-radius: 10px;
+    height: 100%; /* Optional: Add rounded corners for a softer look */
+  }
+  
+  .chart-div > div {
+    margin: 0 auto; /* Center the chart inside the div */
+  }
+  
